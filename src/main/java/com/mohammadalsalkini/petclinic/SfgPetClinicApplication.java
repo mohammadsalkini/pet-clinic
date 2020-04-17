@@ -1,4 +1,4 @@
-package com.mohammadalsalkini.sfgpetclinic;
+package com.mohammadalsalkini.petclinic;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
