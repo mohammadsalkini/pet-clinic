@@ -1,0 +1,5 @@
+com\mohammadalsalkini\petclinic\model\Pet.class
+com\mohammadalsalkini\petclinic\model\Owner.class
+com\mohammadalsalkini\petclinic\model\Person.class
+com\mohammadalsalkini\petclinic\model\PetType.class
+com\mohammadalsalkini\petclinic\model\Vet.class
