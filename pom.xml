@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.mohammadalsalkini</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>3-SNAPSHOT</version>
+    <version>3</version>
     <name>pet-clinic</name>
     <description>Pet Clinic Project</description>
 
@@ -36,6 +36,7 @@
                     <goals>install</goals>
                     <checkModificationExcludes>
                         <checkModificationExclude>pom.xml</checkModificationExclude>
+                        <checkModificationExclude>**</checkModificationExclude>
                     </checkModificationExcludes>
                 </configuration>
             </plugin>
@@ -44,6 +45,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/mohammadsalkini/pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>pet-clinic-3</tag>
   </scm>
 </project>
