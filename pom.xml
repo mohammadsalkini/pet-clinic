@@ -14,7 +14,7 @@
     </parent>
     <groupId>com.mohammadalsalkini</groupId>
     <artifactId>pet-clinic</artifactId>
-    <version>4</version>
+    <version>5-SNAPSHOT</version>
     <name>pet-clinic</name>
     <description>Pet Clinic Project</description>
 
@@ -46,6 +46,6 @@
 
     <scm>
         <developerConnection>scm:git:https://github.com/mohammadsalkini/pet-clinic.git</developerConnection>
-      <tag>pet-clinic-4</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
